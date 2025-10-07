@@ -1,7 +1,7 @@
 {
   "name": "insomnia-plugin-faker-regex",
   "version": "1.0.0",
-  "private": true,
+  "private": false,
   "insomnia": {
     "name": "faker-regex",
     "displayName": "Faker for Regular Expressions",
