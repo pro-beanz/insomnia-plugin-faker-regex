@@ -1,6 +1,6 @@
-import RandExp from 'randexp';
+const RandExp = require('randexp');
 
-export const templateTags = [{
+module.exports.templateTags = [{
     name: 'fakerRegex',
     displayName: 'Randomized Regular Expression',
     description: 'Generate a random string based on a Regex input.',

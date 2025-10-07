@@ -1,6 +1,6 @@
 {
   "name": "insomnia-plugin-faker-regex",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": false,
   "insomnia": {
     "name": "faker-regex",
