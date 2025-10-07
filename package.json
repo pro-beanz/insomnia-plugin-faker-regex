@@ -7,7 +7,8 @@
     "displayName": "Faker for Regular Expressions",
     "description": "This plugin allows generating template tags with randomized values using regular expressions.",
     "publisher": {
-      "name": "Vega Mehra"
+      "name": "Vega Mehra",
+      "icon": "https://avatars.githubusercontent.com/u/46599483?v=4"
     },
     "unlisted": false
   },
