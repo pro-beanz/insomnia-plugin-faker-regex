@@ -1,0 +1,18 @@
+{
+  "name": "insomnia-plugin-faker-regex",
+  "version": "1.0.0",
+  "private": true,
+  "insomnia": {
+    "name": "faker-regex",
+    "displayName": "Faker for Regular Expressions",
+    "description": "This plugin allows generating template tags with randomized values using regular expressions.",
+    "publisher": {
+      "name": "Vega Mehra"
+    },
+    "unlisted": false
+  },
+  "main": "main.js",
+  "dependencies": {
+    "randexp": "^0.5.3"
+  }
+}
